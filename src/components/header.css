@@ -1,0 +1,27 @@
+.header{
+    margin: 0 2.5rem;
+    padding: .5rem 0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerleft{
+    display: flex;
+    align-items: center;
+}
+
+span{
+    margin: 0 30px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+h1 .munni{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+Link{
+    text-decoration: none;
+}
